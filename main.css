@@ -1,0 +1,51 @@
+
+#blog1 {
+	background-color: darkgrey;
+	font-family: helvetica, sans-serif;
+	font-size: 1.2em;
+	color: aqua;
+	line-height: 1.4em;
+	padding: 5em;
+	border: 2px solid black;
+	border-radius: 20%;
+}
+#blog2 {
+	background-color: black;
+	font-family: times, serif;
+	font-size: 1.4em;
+	color: white;
+	line-height: 1.6em;
+	padding: 4em;
+	border: 2px solid black;
+	border-radius: 12%;
+}
+#blog3 {
+	background-color: aqua;
+	font-family: Arial;
+	font-size: 1.6em;
+	color: orange;
+	line-height: 1.8em;
+	padding: 3em;
+	border: 2px solid black;
+	border-radius: 8%;
+}
+#blog4 {
+	background-color: darkred;
+	font-family: Tahoma;
+	font-size: 1.8em;
+	color: blue;
+	line-height: 2.0em;
+	padding: 2em;
+	border: 2px solid black;
+	border-radius: 4%;
+}
+#blog5 {
+	background-color: brown;
+	font-family: 'Trebuchet MS'
+	font-size: 2.0em;
+	color: lightgrey;
+	line-height: 2.2em;
+	padding: 1em;
+	border: 2px solid black;
+	border-radius: 2%;
+}
